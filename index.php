@@ -7,7 +7,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Фотогалерея</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
